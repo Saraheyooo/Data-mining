@@ -1,5 +1,5 @@
 # Data mining_Exam 1
-20211210
+20211209
 
 
 Question 1
