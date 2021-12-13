@@ -1,5 +1,7 @@
 # Data mining_Exam 1
-20211209
+
+Exam text analysis
+20211203
 
 
 Question 1
