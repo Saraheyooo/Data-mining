@@ -36,8 +36,8 @@ For your reference, the columns in word_cats.p represent the following cate- gor
 
 ## Question 3
 
-A record producer has approached you with the question of whether there are any distinguishable features of a pop song. In other words: what sets a pop song (lyrically) apart from other genres?  
-Try to formulate a good operationalization of this question (how are you going to quantify this, what method do you use, what steps do you need to take, what time period are you focusing on) using the methods we discussed in the last three weeks (you are free to choose one!), and argue why this operational- ization would be suitable to formulate an answer to the question of the record producer.  
+A record producer has approached you with the question of whether there are any distinguishable features of a pop song. In other words: what sets a pop song (lyrically) apart from other genres?    
+Try to formulate a good operationalization of this question (how are you going to quantify this, what method do you use, what steps do you need to take, what time period are you focusing on) using the methods we discussed in the last three weeks (you are free to choose one!), and argue why this operational- ization would be suitable to formulate an answer to the question of the record producer.     
 Implement your operationalization using the dataset from exercise 3.1 and formulate an answer to the question of the record producer.
 After that, consider the following new lyrics provided by our hypothetical producer:
 
