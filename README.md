@@ -1,5 +1,5 @@
-# Data-mining
-Exam 1 
+# Data mining_Exam 1
+
 
 
 Question 1
