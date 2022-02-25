@@ -1,7 +1,9 @@
 # Data mining_Exam 1
 
-# Exam text analysis
+# Text Analysis
 20211203
+
+In this repository, there are three questions that address different aspects of NLP questions using data mining techniques. The methods include text processing with Spacy package, Topic Modeling with LDA, TF-IDF, BERT Model, and word embeddings. After pre-processing the text, we can discover insight into these data. Finally, apply Matplotlib and Seaborn tools to visualize the results and interpret the conclusions. 
 
 
 ## Question 1
