@@ -9,17 +9,16 @@ In this repository, there are three questions that address different aspects of 
 ## Question 1
 
 Train a topic model on the description column in framing.p. Describe and explain your pre-processing steps and parameters.  
-Choose two news media from the column netloc (e.g. vox.com and breit- bart.com) that are relevant to compare and explain your choice. Compare the topic proportions between those two news media. Try to explain your results, also given what you know about how the data set is constructed.
-
+Choose two news media from the column netloc that are relevant to compare and explain your choice. Compare the topic proportions between those two news media.
 
 
 
 ## Question 2
 
-Choose two shows from discussions.p and compare the gender bias in the discussions on both shows. Explain why the two shows you choose are relevant to compare in this context and formulate a hypothesis.  
-Train two word embeddings models (one for each show). Compile a list of male and female related words that you deem relevant for your corpus and compare the gender biases between the discussions on the two shows you choose, using the method of the paper by Wevers. Interpret the results, relate them to your hypothesis, and discuss whether your results say something about the shows themselves or about the discussions on these shows.  
+Choose two shows from discussions.p and compare the gender bias in the discussions on both shows. Compare in this context and formulate a hypothesis.  
+Train two word embeddings models (one for each show). Compile a list of male and female related words that you deem relevant for your corpus and compare the gender biases between the discussions on the two shows you choose, using the method of the paper by Wevers. Interpret the results, relate them to the hypothesis, and discuss whether your results say something about the shows themselves or about the discussions on these shows. 
 
-For your reference, the columns in word_cats.p represent the following cate- gories:
+The columns in word_cats.p represent the following cate- gories:
 * affect: Affect
 * posemo: Positive emotions
 * negemo: Negative emotions
@@ -39,8 +38,8 @@ For your reference, the columns in word_cats.p represent the following cate- gor
 ## Question 3
 
 A record producer has approached you with the question of whether there are any distinguishable features of a pop song. In other words: what sets a pop song (lyrically) apart from other genres?    
-Try to formulate a good operationalization of this question (how are you going to quantify this, what method do you use, what steps do you need to take, what time period are you focusing on) using the methods we discussed in the last three weeks (you are free to choose one!), and argue why this operational- ization would be suitable to formulate an answer to the question of the record producer.     
-Implement your operationalization using the dataset from exercise 3.1 and formulate an answer to the question of the record producer.
+Try to formulate a good operationalization of this question using the methods we discussed in the last three weeks, and argue why this operationalization would be suitable to formulate an answer to the question of the record producer.     
+Implement the operationalization using the dataset and formulate an answer to the question of the record producer.
 After that, consider the following new lyrics provided by our hypothetical producer:
 
 *The sky breaks open and the rain falls down.   
@@ -75,4 +74,4 @@ I'm holding on...
 (They tell you lies)*
 
 
-Based on (the results) of your method, to what extent could you say whether this is a ”classic” pop song or not? Explain your answer (in a data-driven way) and try to refer both to your results and to the lyrics itself.
+Based on (the results) of your method, to what extent could you say whether this is a ”classic” pop song or not?  Refer both to your results and to the lyrics itself.
